@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloquea rutas internas que no aportan SEO
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
